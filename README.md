@@ -1,2 +1,2 @@
 # envelope
-Schedule emails and invites with envelope. Grade 11/12 CS Project.
+Schedule emails and invites with envelope. Grade 11/12 CS Project. Made with Dhruv Jain.
